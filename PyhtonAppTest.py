@@ -1,0 +1,6 @@
+print ("Make new file")
+print ("Test Python")
+print ("***********")
+name = input("Whats you name")
+print("Hi,", name)
+print ("******")
